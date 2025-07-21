@@ -104,4 +104,3 @@ if run:
     status_placeholder.info("Camera stopped.")
 else:
     status_placeholder.info("Check the box above to start the camera.")
-
